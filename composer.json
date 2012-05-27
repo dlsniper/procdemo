@@ -1,0 +1,13 @@
+{
+    "name": "dlsniper/proc",
+    "description": "Demo",
+    "require": {
+        "symfony/process": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Florin Patan",
+            "email": "florinpatan@gmail.com"
+        }
+    ]
+}

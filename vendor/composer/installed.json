@@ -1,0 +1,54 @@
+[
+    {
+        "name": "symfony/process",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "target-dir": "Symfony/Component/Process",
+        "time": "2012-05-07 08:29:11",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/symfony/Process",
+            "reference": "106f2db51cecf2fe5ee59e428b8f4a918c4034fa"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://github.com/symfony/Process/zipball/106f2db51cecf2fe5ee59e428b8f4a918c4034fa",
+            "reference": "106f2db51cecf2fe5ee59e428b8f4a918c4034fa",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.3"
+        },
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "2.1-dev"
+            }
+        },
+        "installation-source": "source",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Fabien Potencier",
+                "email": "fabien@symfony.com",
+                "homepage": null,
+                "role": null
+            },
+            {
+                "name": "Symfony Community",
+                "email": null,
+                "homepage": "http://symfony.com/contributors",
+                "role": null
+            }
+        ],
+        "description": "Symfony Process Component",
+        "homepage": "http://symfony.com",
+        "autoload": {
+            "psr-0": {
+                "Symfony\\Component\\Process": ""
+            }
+        }
+    }
+]
